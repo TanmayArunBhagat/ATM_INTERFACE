@@ -156,7 +156,7 @@ class ATMinter {
                 System.exit(0);
             } else {
                 System.out.println("select a value only from the given options :");
-                homepage();
+                starting();
             }
         }
     }
